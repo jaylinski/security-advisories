@@ -1,0 +1,43 @@
+{
+    "id": "PHPSEC-2018-06-27",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Magento 2.2.5 and 2.1.14 Security update",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "magento\/product-community-edition",
+            "purl": "pkg:packagist\/magento\/product-community-edition"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2.1"
+                },
+                {
+                    "fixed": "<2.1.14"
+                },
+                {
+                    "introduced": ">=2.2"
+                },
+                {
+                    "fixed": "<2.2.5"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/magento.com\/security\/patches\/magento-2.2.5-and-2.1.14-security-update"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/magento\/product-community-edition"
+        }
+    ]
+}

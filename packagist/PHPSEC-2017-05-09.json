@@ -1,0 +1,40 @@
+{
+    "id": "PHPSEC-2017-05-09",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Cookie leakage to wrong origins and non-restricted cookie acceptance",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "amphp\/artax",
+            "purl": "pkg:packagist\/amphp\/artax"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2"
+                },
+                {
+                    "fixed": "<2.0.6"
+                },
+                {
+                    "fixed": "<1.0.6"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/amphp\/artax\/releases\/tag\/v2.0.6"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/amphp\/artax"
+        }
+    ]
+}

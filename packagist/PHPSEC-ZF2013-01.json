@@ -1,0 +1,43 @@
+{
+    "id": "PHPSEC-ZF2013-01",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Route Parameter Injection Via Query String in Zend\\Mvc",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "zendframework\/zendframework",
+            "purl": "pkg:packagist\/zendframework\/zendframework"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2.0.0"
+                },
+                {
+                    "fixed": "<2.0.8"
+                },
+                {
+                    "introduced": ">=2.1.0"
+                },
+                {
+                    "fixed": "<2.1.4"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2013-01"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zendframework\/zendframework"
+        }
+    ]
+}

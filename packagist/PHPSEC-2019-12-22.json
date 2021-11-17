@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2019-12-22",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Disclosure of files via logo_path query parameter",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "endroid\/qr-code-bundle",
+            "purl": "pkg:packagist\/endroid\/qr-code-bundle"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<3.4.2"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/endroid\/qr-code-bundle\/releases\/tag\/3.4.2"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/endroid\/qr-code-bundle"
+        }
+    ]
+}

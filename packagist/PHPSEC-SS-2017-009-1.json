@@ -1,0 +1,49 @@
+{
+    "id": "PHPSEC-SS-2017-009-1",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "SS-2017-009: Users inadvertently passing sensitive data to LoginAttempt",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "silverstripe\/framework",
+            "purl": "pkg:packagist\/silverstripe\/framework"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=3.5.0"
+                },
+                {
+                    "fixed": "<3.5.6"
+                },
+                {
+                    "introduced": ">=3.6.0"
+                },
+                {
+                    "fixed": "<3.6.3"
+                },
+                {
+                    "introduced": ">=4.0.0"
+                },
+                {
+                    "fixed": "<4.0.1"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2017-009\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
+        }
+    ]
+}

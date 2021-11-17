@@ -1,0 +1,49 @@
+{
+    "id": "PHPSEC-2018-07-09",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "CSRF vulnerability in the admin panel",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "sylius\/admin-bundle",
+            "purl": "pkg:packagist\/sylius\/admin-bundle"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=1.0.0"
+                },
+                {
+                    "fixed": "<1.0.17"
+                },
+                {
+                    "introduced": ">=1.1.0"
+                },
+                {
+                    "fixed": "<1.1.9"
+                },
+                {
+                    "introduced": ">=1.2.0"
+                },
+                {
+                    "fixed": "<1.2.2"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/sylius.com\/blog\/csrf-vulnerability-in-admin-panel\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/sylius\/admin-bundle"
+        }
+    ]
+}

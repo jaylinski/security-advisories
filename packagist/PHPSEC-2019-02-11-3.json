@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2019-02-11-3",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "E-mail HTML injection",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "passbolt\/passbolt_api",
+            "purl": "pkg:packagist\/passbolt\/passbolt_api"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<2.7.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.passbolt.com\/incidents\/20190211_multiple_vulnerabilities"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/passbolt\/passbolt_api"
+        }
+    ]
+}

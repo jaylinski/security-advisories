@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2019-01-20",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Adminer script versions up to 4.6.2 contains file disclosure vulnerability",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "vrana\/adminer",
+            "purl": "pkg:packagist\/vrana\/adminer"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<4.6.3"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/sansec.io\/research\/adminer-4.6.2-file-disclosure-vulnerability"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/vrana\/adminer"
+        }
+    ]
+}

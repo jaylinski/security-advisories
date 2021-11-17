@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2015-03-10",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Critical vulnerabilities in JSON Web Token libraries",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "namshi\/jose",
+            "purl": "pkg:packagist\/namshi\/jose"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<2.2.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/auth0.com\/blog\/2015\/03\/31\/critical-vulnerabilities-in-json-web-token-libraries\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/namshi\/jose"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "PHPSEC-2021-04-06",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Regression in Query Parenthesis can have Security Implications",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "doctrine\/orm",
+            "purl": "pkg:packagist\/doctrine\/orm"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2.8.3"
+                },
+                {
+                    "fixed": "<2.8.4"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/doctrine\/orm\/pull\/8591"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/doctrine\/orm"
+        }
+    ]
+}

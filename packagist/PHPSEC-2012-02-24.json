@@ -1,0 +1,37 @@
+{
+    "id": "PHPSEC-2012-02-24",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "XML decoding attack vector through external entities",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "symfony\/serializer",
+            "purl": "pkg:packagist\/symfony\/serializer"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2.0.0"
+                },
+                {
+                    "fixed": "<2.0.11"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/symfony.com\/blog\/security-release-symfony-2-0-11-released"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/symfony\/serializer"
+        }
+    ]
+}

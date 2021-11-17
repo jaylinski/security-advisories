@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2018-12-14",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Denial of service",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "ua-parser\/uap-php",
+            "purl": "pkg:packagist\/ua-parser\/uap-php"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<3.8.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/ua-parser\/uap-core\/pull\/363"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ua-parser\/uap-php"
+        }
+    ]
+}

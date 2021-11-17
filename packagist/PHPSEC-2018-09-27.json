@@ -1,0 +1,49 @@
+{
+    "id": "PHPSEC-2018-09-27",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Filter input to avoid XPath injection",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "robrichards\/xmlseclibs",
+            "purl": "pkg:packagist\/robrichards\/xmlseclibs"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=1.0.0"
+                },
+                {
+                    "fixed": "<2.0.0"
+                },
+                {
+                    "introduced": ">=2.0.0"
+                },
+                {
+                    "fixed": "<3.0.0"
+                },
+                {
+                    "introduced": ">=3.0.0"
+                },
+                {
+                    "fixed": "<3.0.2"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/robrichards\/xmlseclibs\/commit\/649032643f7aac493e91ca318da0339aec72aa4a"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/robrichards\/xmlseclibs"
+        }
+    ]
+}

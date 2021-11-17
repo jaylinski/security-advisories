@@ -1,0 +1,91 @@
+{
+    "id": "PHPSEC-2015-11-05",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Remote File Inclusion through View template name manipulation",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "cakephp\/cakephp",
+            "purl": "pkg:packagist\/cakephp\/cakephp"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2.0.0"
+                },
+                {
+                    "fixed": "<2.0.99"
+                },
+                {
+                    "introduced": ">=2.1.0"
+                },
+                {
+                    "fixed": "<2.1.99"
+                },
+                {
+                    "introduced": ">=2.2.0"
+                },
+                {
+                    "fixed": "<2.2.99"
+                },
+                {
+                    "introduced": ">=2.3.0"
+                },
+                {
+                    "fixed": "<2.3.99"
+                },
+                {
+                    "introduced": ">=2.4.0"
+                },
+                {
+                    "fixed": "<2.4.99"
+                },
+                {
+                    "introduced": ">=2.5.0"
+                },
+                {
+                    "fixed": "<2.5.99"
+                },
+                {
+                    "introduced": ">=2.6.0"
+                },
+                {
+                    "fixed": "<2.6.12"
+                },
+                {
+                    "introduced": ">=2.7.0"
+                },
+                {
+                    "fixed": "<2.7.6"
+                },
+                {
+                    "introduced": ">=3.0.0"
+                },
+                {
+                    "fixed": "<3.0.15"
+                },
+                {
+                    "introduced": ">=3.1.0"
+                },
+                {
+                    "fixed": "<3.1.4"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/bakery.cakephp.org\/2015\/11\/05\/cakephp_3015_314_2612_276_released.html"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
+        }
+    ]
+}

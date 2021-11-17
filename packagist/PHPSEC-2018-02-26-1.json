@@ -1,0 +1,49 @@
+{
+    "id": "PHPSEC-2018-02-26-1",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "EZSA-2018-001 Several vulnerabilities in Forgot password, Information collector, XML text, and Matrix field type features",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "ezsystems\/ezpublish-legacy",
+            "purl": "pkg:packagist\/ezsystems\/ezpublish-legacy"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=2011.0.0"
+                },
+                {
+                    "fixed": "<2017.12.2.1"
+                },
+                {
+                    "introduced": ">=5.4.0"
+                },
+                {
+                    "fixed": "<5.4.11.3"
+                },
+                {
+                    "introduced": ">=5.3.0"
+                },
+                {
+                    "fixed": "<5.3.12.3"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "http:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2018-001-several-vulnerabilities-in-forgot-password-information-collector-xml-text-and-matrix-field-type-features"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezpublish-legacy"
+        }
+    ]
+}

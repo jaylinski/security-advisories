@@ -1,0 +1,43 @@
+{
+    "id": "PHPSEC-2014-05-20",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Risk of mass-assignment vulnerabilities",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "laravel\/framework",
+            "purl": "pkg:packagist\/laravel\/framework"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=4.0.0"
+                },
+                {
+                    "fixed": "<4.0.99"
+                },
+                {
+                    "introduced": ">=4.1.0"
+                },
+                {
+                    "fixed": "<4.1.29"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/laravel.com\/docs\/5.3\/upgrade#upgrade-4.1.29"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/laravel\/framework"
+        }
+    ]
+}

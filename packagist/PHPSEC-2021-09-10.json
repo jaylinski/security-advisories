@@ -1,0 +1,55 @@
+{
+    "id": "PHPSEC-2021-09-10",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Prevent installation typosquatting malware",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "symfont\/process",
+            "purl": "pkg:packagist\/symfont\/process"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=0"
+                },
+                {
+                    "fixed": "<1"
+                },
+                {
+                    "introduced": ">=1"
+                },
+                {
+                    "fixed": "<2"
+                },
+                {
+                    "introduced": ">=2"
+                },
+                {
+                    "fixed": "<3"
+                },
+                {
+                    "introduced": ">=3"
+                },
+                {
+                    "fixed": "<4"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.kernelmode.blog\/typosquatting-malware-found-in-composer-repository\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/symfont\/process"
+        }
+    ]
+}

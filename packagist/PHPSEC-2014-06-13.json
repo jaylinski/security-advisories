@@ -1,0 +1,43 @@
+{
+    "id": "PHPSEC-2014-06-13",
+    "modified": "2021-11-17T23:04:26Z",
+    "published": "2021-11-17T23:04:26Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Sendmail transport arbitrary shell execution",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "swiftmailer\/swiftmailer",
+            "purl": "pkg:packagist\/swiftmailer\/swiftmailer"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=4.0.0"
+                },
+                {
+                    "fixed": "<4.99.99"
+                },
+                {
+                    "introduced": ">=5.0.0"
+                },
+                {
+                    "fixed": "<5.2.1"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "http:\/\/blog.swiftmailer.org\/post\/88660759928\/security-fix-swiftmailer-5-2-1-released"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/swiftmailer\/swiftmailer"
+        }
+    ]
+}
