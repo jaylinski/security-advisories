@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2014-04-26",
+    "modified": "2015-05-20T13:28:13Z",
+    "published": "2015-05-20T13:28:13Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Authentication adapter did not verify validity of tokens",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "zfr\/zfr-oauth2-server-module",
+            "purl": "pkg:packagist\/zfr\/zfr-oauth2-server-module"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<0.1.2"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/zf-fr\/zfr-oauth2-server-module\/issues\/6"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zfr\/zfr-oauth2-server-module"
+        }
+    ]
+}

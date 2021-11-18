@@ -1,0 +1,67 @@
+{
+    "id": "PHPSEC-2019-07-10",
+    "modified": "2019-07-14T13:26:49Z",
+    "published": "2019-07-14T13:26:49Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Reflected Cross-Site-Scripting",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "simplesamlphp\/simplesamlphp",
+            "purl": "pkg:packagist\/simplesamlphp\/simplesamlphp"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=1.12.0"
+                },
+                {
+                    "fixed": "<1.13.0"
+                },
+                {
+                    "introduced": ">=1.13.0"
+                },
+                {
+                    "fixed": "<1.14.0"
+                },
+                {
+                    "introduced": ">=1.14.0"
+                },
+                {
+                    "fixed": "<1.15.0"
+                },
+                {
+                    "introduced": ">=1.15.0"
+                },
+                {
+                    "fixed": "<1.16.0"
+                },
+                {
+                    "introduced": ">=1.16.0"
+                },
+                {
+                    "fixed": "<1.17.0"
+                },
+                {
+                    "introduced": ">=1.17.0"
+                },
+                {
+                    "fixed": "<1.17.3"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/simplesamlphp.org\/security\/201907-01"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/simplesamlphp\/simplesamlphp"
+        }
+    ]
+}

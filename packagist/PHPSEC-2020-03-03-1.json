@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2020-03-03-1",
+    "modified": "2020-03-15T11:09:12Z",
+    "published": "2020-03-13T18:59:21Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Fixes redirect uri validation in oauth",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "friendsofsymfony\/oauth2-php",
+            "purl": "pkg:packagist\/friendsofsymfony\/oauth2-php"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<1.3.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/FriendsOfSymfony\/oauth2-php\/releases\/tag\/1.3.0"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/friendsofsymfony\/oauth2-php"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2018-06-08-1",
+    "modified": "2018-06-08T07:18:07Z",
+    "published": "2018-06-08T07:18:07Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Missing state parameter in OAuth requests leading to CSRF vulnerability",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "sensiolabs\/connect",
+            "purl": "pkg:packagist\/sensiolabs\/connect"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<4.2.3"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/sensiolabs\/connect\/pull\/63"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/sensiolabs\/connect"
+        }
+    ]
+}

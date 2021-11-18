@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2016-10-31",
+    "modified": "2016-10-31T13:16:54Z",
+    "published": "2016-10-31T13:16:54Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Local File Inclusion Vulnerability",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "gregwar\/rst",
+            "purl": "pkg:packagist\/gregwar\/rst"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<1.0.3"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/hackerone.com\/reports\/179034"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/gregwar\/rst"
+        }
+    ]
+}

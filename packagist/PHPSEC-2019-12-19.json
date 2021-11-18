@@ -1,0 +1,49 @@
+{
+    "id": "PHPSEC-2019-12-19",
+    "modified": "2019-12-20T15:13:40Z",
+    "published": "2019-12-20T15:13:40Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Vulnerability to bypass two-factor authentication with remember-me option",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "scheb\/two-factor-bundle",
+            "purl": "pkg:packagist\/scheb\/two-factor-bundle"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "introduced": ">=4.0.0"
+                },
+                {
+                    "fixed": "<4.11.0"
+                },
+                {
+                    "introduced": ">=3.0.0"
+                },
+                {
+                    "fixed": "<3.26.0"
+                },
+                {
+                    "introduced": ">=0.0.0"
+                },
+                {
+                    "fixed": "<3.0.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/scheb\/two-factor-bundle\/issues\/253"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/scheb\/two-factor-bundle"
+        }
+    ]
+}

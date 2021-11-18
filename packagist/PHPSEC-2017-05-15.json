@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2017-05-15",
+    "modified": "2017-05-17T03:59:20Z",
+    "published": "2017-05-16T03:29:27Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Remote Code Execution",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "3f\/pygmentize",
+            "purl": "pkg:packagist\/3f\/pygmentize"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<1.2"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/dedalozzo\/pygmentize\/issues\/1"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/3f\/pygmentize"
+        }
+    ]
+}

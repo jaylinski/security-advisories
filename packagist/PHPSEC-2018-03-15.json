@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2018-03-15",
+    "modified": "2018-03-15T17:43:17Z",
+    "published": "2018-03-15T17:43:17Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Incorrect header injection check",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "amphp\/http",
+            "purl": "pkg:packagist\/amphp\/http"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<1.0.1"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/amphp\/http\/releases\/tag\/v1.0.1"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/amphp\/http"
+        }
+    ]
+}

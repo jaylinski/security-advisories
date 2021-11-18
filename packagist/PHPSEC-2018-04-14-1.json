@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2018-04-14-1",
+    "modified": "2018-05-10T23:44:21Z",
+    "published": "2018-05-09T16:30:37Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Crypt encryption compromised.",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "fuel\/core",
+            "purl": "pkg:packagist\/fuel\/core"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<1.8.1"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/fuelphp.com\/security-advisories"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/fuel\/core"
+        }
+    ]
+}

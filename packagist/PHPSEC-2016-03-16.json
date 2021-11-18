@@ -1,0 +1,34 @@
+{
+    "id": "PHPSEC-2016-03-16",
+    "modified": "2016-05-03T12:08:18Z",
+    "published": "2016-04-26T08:53:59Z",
+    "aliases": [],
+    "related": [],
+    "summary": "Uses insecure CSPRNG (openssl_random_pseudo_bytes())",
+    "details": "",
+    "affected": {
+        "package": {
+            "ecosystem": "Packagist",
+            "name": "paragonie\/random_compat",
+            "purl": "pkg:packagist\/paragonie\/random_compat"
+        },
+        "ranges": {
+            "type": "SEMVER",
+            "events": [
+                {
+                    "fixed": "<2.0"
+                }
+            ]
+        }
+    },
+    "references": [
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/paragonie\/random_compat\/issues\/96"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/paragonie\/random_compat"
+        }
+    ]
+}
