@@ -38,12 +38,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-003-xss-in-ezfind-spellcheck"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezfind-ls"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-003-xss-in-ezfind-spellcheck"
         }
     ]
 }

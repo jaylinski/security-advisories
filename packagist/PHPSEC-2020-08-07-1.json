@@ -9,8 +9,8 @@
     "affected": {
         "package": {
             "ecosystem": "Packagist",
-            "name": "ezsystems\/ezplatform-admin-ui-assets",
-            "purl": "pkg:packagist\/ezsystems\/ezplatform-admin-ui-assets"
+            "name": "ezsystems\/platform-ui-assets-bundle",
+            "purl": "pkg:packagist\/ezsystems\/platform-ui-assets-bundle"
         },
         "ranges": {
             "type": "SEMVER",
@@ -19,31 +19,19 @@
                     "introduced": ">=4.2.0"
                 },
                 {
-                    "fixed": "<4.2.1"
-                },
-                {
-                    "introduced": ">=5.0.0"
-                },
-                {
-                    "fixed": "<5.0.1"
-                },
-                {
-                    "introduced": ">=5.1.0"
-                },
-                {
-                    "fixed": "<5.1.1"
+                    "fixed": "<4.2.3"
                 }
             ]
         }
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/ezplatform.com\/security-advisories\/ezsa-2020-005-editor-xss-and-trashed-drafts-in-review-queue"
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/platform-ui-assets-bundle"
         },
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui-assets"
+            "type": "ADVISORY",
+            "url": "https:\/\/ezplatform.com\/security-advisories\/ezsa-2020-005-editor-xss-and-trashed-drafts-in-review-queue"
         }
     ]
 }

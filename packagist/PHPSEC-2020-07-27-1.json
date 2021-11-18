@@ -98,12 +98,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/blog.laravel.com\/laravel-cookie-security-releases"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/laravel\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/blog.laravel.com\/laravel-cookie-security-releases"
         }
     ]
 }

@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-004-csrf-token-in-login-form-is-disabled-by-default"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-004-csrf-token-in-login-form-is-disabled-by-default"
         }
     ]
 }

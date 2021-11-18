@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/DataDog\/dd-trace-php\/releases\/tag\/0.30.0"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/datadog\/dd-trace"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/DataDog\/dd-trace-php\/releases\/tag\/0.30.0"
         }
     ]
 }

@@ -68,12 +68,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/bakery.cakephp.org\/2015\/08\/06\/cakephp_2_5_9_2_6_10_2_7_2_released.html"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/bakery.cakephp.org\/2015\/08\/06\/cakephp_2_5_9_2_6_10_2_7_2_released.html"
         }
     ]
 }

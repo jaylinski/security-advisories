@@ -32,12 +32,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2017-004\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2017-004\/"
         }
     ]
 }

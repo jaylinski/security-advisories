@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/livewire\/livewire\/releases\/tag\/v2.2.6"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/livewire\/livewire"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/livewire\/livewire\/releases\/tag\/v2.2.6"
         }
     ]
 }

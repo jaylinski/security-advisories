@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<1.8.1"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/fuelphp.com\/security-advisories"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/fuel\/core"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/fuelphp.com\/security-advisories"
         }
     ]
 }

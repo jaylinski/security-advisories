@@ -50,12 +50,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/community.shopware.com\/_detail_2015.html"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/shopware\/shopware"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/community.shopware.com\/_detail_2015.html"
         }
     ]
 }

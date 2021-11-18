@@ -38,12 +38,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-015\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/comments"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-015\/"
         }
     ]
 }

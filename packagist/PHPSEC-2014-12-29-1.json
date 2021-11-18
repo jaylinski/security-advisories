@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/Seldaek\/monolog\/pull\/448#issuecomment-68208704"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/monolog\/monolog"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/Seldaek\/monolog\/pull\/448#issuecomment-68208704"
         }
     ]
 }

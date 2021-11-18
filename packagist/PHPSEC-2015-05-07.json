@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/bakery.cakephp.org\/2015\/05\/07\/cakephp_3_0_4_released.html"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/bakery.cakephp.org\/2015\/05\/07\/cakephp_3_0_4_released.html"
         }
     ]
 }

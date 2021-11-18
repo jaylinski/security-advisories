@@ -56,12 +56,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "http:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2018-008-rest-api-returns-list-of-all-siteaccesses"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezpublish-kernel"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "http:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2018-008-rest-api-returns-list-of-all-siteaccesses"
         }
     ]
 }

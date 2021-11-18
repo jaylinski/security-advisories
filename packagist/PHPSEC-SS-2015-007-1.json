@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2015-007\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2015-007\/"
         }
     ]
 }

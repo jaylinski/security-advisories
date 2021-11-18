@@ -80,12 +80,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.drupal.org\/sa-core-2019-012"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/drupal\/core"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.drupal.org\/sa-core-2019-012"
         }
     ]
 }

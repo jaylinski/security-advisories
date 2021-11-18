@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/developers.ibexa.co\/security-advisories\/ibexa-sa-2020-007-failing-access-control-in-system-info-view"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ezsystems\/ez-support-tools"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/developers.ibexa.co\/security-advisories\/ibexa-sa-2020-007-failing-access-control-in-system-info-view"
         }
     ]
 }

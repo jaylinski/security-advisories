@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-06-17",
-    "modified": "2021-04-15T08:09:55Z",
-    "published": "2021-04-15T08:09:55Z",
+    "modified": "2021-04-15T08:16:19Z",
+    "published": "2021-04-15T08:16:19Z",
     "aliases": [],
     "related": [],
     "summary": "Information Disclosure Security Note",
@@ -9,8 +9,8 @@
     "affected": {
         "package": {
             "ecosystem": "Packagist",
-            "name": "typo3\/neos",
-            "purl": "pkg:packagist\/typo3\/neos"
+            "name": "neos\/neos",
+            "purl": "pkg:packagist\/neos\/neos"
         },
         "ranges": {
             "type": "SEMVER",
@@ -19,7 +19,7 @@
                     "introduced": ">=2.3.0"
                 },
                 {
-                    "fixed": "<2.3.99"
+                    "fixed": "<2.9.99"
                 },
                 {
                     "introduced": ">=3.0.0"
@@ -74,12 +74,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.neos.io\/blog\/neos-workspace-disclosure-security.html"
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/neos\/neos"
         },
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/typo3\/neos"
+            "type": "ADVISORY",
+            "url": "https:\/\/www.neos.io\/blog\/neos-workspace-disclosure-security.html"
         }
     ]
 }

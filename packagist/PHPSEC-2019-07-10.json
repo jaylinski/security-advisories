@@ -56,12 +56,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/simplesamlphp.org\/security\/201907-01"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/simplesamlphp\/simplesamlphp"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/simplesamlphp.org\/security\/201907-01"
         }
     ]
 }

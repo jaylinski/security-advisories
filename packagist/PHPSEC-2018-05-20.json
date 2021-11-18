@@ -38,12 +38,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/bakery.cakephp.org\/2018\/05\/20\/cakephp_364_3517_3414_released.html"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/bakery.cakephp.org\/2018\/05\/20\/cakephp_364_3517_3414_released.html"
         }
     ]
 }

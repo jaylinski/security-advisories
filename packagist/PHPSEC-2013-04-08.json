@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "http:\/\/blog.twig.sensiolabs.org\/post\/47461911874\/security-release-twig-1-12-3-released"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/twig\/twig"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "http:\/\/blog.twig.sensiolabs.org\/post\/47461911874\/security-release-twig-1-12-3-released"
         }
     ]
 }

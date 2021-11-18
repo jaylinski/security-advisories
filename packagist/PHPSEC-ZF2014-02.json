@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-ZF2014-02",
     "modified": "2018-04-20T06:36:56Z",
-    "published": "2014-03-10T08:55:38Z",
+    "published": "2014-03-09T10:04:40Z",
     "aliases": [],
     "related": [],
     "summary": "Potential security issue in login mechanism of ZendOpenId and Zend_OpenId consumer",
@@ -9,29 +9,29 @@
     "affected": {
         "package": {
             "ecosystem": "Packagist",
-            "name": "zendframework\/zendopenid",
-            "purl": "pkg:packagist\/zendframework\/zendopenid"
+            "name": "zendframework\/zendframework1",
+            "purl": "pkg:packagist\/zendframework\/zendframework1"
         },
         "ranges": {
             "type": "SEMVER",
             "events": [
                 {
-                    "introduced": ">=2.0.0"
+                    "introduced": ">=1.12.0"
                 },
                 {
-                    "fixed": "<2.0.2"
+                    "fixed": "<1.12.4"
                 }
             ]
         }
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2014-02"
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zendframework\/zendframework1"
         },
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/zendframework\/zendopenid"
+            "type": "ADVISORY",
+            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2014-02"
         }
     ]
 }

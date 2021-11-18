@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<3.0.3"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.codeigniter.com\/user_guide\/changelog.html#version-3-0-3"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/codeigniter\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.codeigniter.com\/user_guide\/changelog.html#version-3-0-3"
         }
     ]
 }

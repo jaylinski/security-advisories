@@ -38,12 +38,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-006-rules-to-disable-executable-access-are-ignored-on-platform.sh-ez-cloud"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-006-rules-to-disable-executable-access-are-ignored-on-platform.sh-ez-cloud"
         }
     ]
 }

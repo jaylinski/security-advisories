@@ -38,12 +38,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/robrichards\/xmlseclibs\/commit\/649032643f7aac493e91ca318da0339aec72aa4a"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/robrichards\/xmlseclibs"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/robrichards\/xmlseclibs\/commit\/649032643f7aac493e91ca318da0339aec72aa4a"
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
     "id": "PHPSEC-2017-11-20",
-    "modified": "2018-03-01T01:09:36Z",
+    "modified": "2017-11-20T19:45:52Z",
     "published": "2017-11-20T19:45:52Z",
     "aliases": [],
     "related": [],
-    "summary": "Padding Oracle Vulnerability in RSA Encryption",
+    "summary": "Remote Code Execution via Chosen-Ciphertext Attack",
     "details": "",
     "affected": {
         "package": {
             "ecosystem": "Packagist",
-            "name": "pagarme\/pagarme-php",
-            "purl": "pkg:packagist\/pagarme\/pagarme-php"
+            "name": "titon\/framework",
+            "purl": "pkg:packagist\/titon\/framework"
         },
         "ranges": {
             "type": "SEMVER",
@@ -19,19 +19,19 @@
                     "introduced": ">=0.0.0"
                 },
                 {
-                    "fixed": "<3.0.0"
+                    "fixed": "<9.9.99"
                 }
             ]
         }
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/pagarme\/pagarme-php\/issues\/29"
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/titon\/framework"
         },
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/pagarme\/pagarme-php"
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/titon\/framework\/issues\/93"
         }
     ]
 }

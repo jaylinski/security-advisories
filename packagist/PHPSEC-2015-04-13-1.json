@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/thelia.net\/version-2-1-3-with-security-fix"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/thelia\/thelia"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/thelia.net\/version-2-1-3-with-security-fix"
         }
     ]
 }

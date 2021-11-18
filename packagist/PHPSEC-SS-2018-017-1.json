@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-017\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/symbiote\/silverstripe-multivaluefield"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-017\/"
         }
     ]
 }

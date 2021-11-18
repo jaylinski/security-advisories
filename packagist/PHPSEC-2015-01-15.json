@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<1.15.2"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/socalnick\/scnsocialauth\/issues\/184"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/socalnick\/scn-social-auth"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/socalnick\/scnsocialauth\/issues\/184"
         }
     ]
 }

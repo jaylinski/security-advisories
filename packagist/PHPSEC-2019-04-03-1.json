@@ -9,29 +9,29 @@
     "affected": {
         "package": {
             "ecosystem": "Packagist",
-            "name": "ezsystems\/ezplatform-user",
-            "purl": "pkg:packagist\/ezsystems\/ezplatform-user"
+            "name": "ezsystems\/ezplatform-admin-ui",
+            "purl": "pkg:packagist\/ezsystems\/ezplatform-admin-ui"
         },
         "ranges": {
             "type": "SEMVER",
             "events": [
                 {
-                    "introduced": ">=1.0.0"
+                    "introduced": ">=1.4.0"
                 },
                 {
-                    "fixed": "<1.0.1"
+                    "fixed": "<1.4.6"
                 }
             ]
         }
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-002-password-reset-vulnerability"
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui"
         },
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-user"
+            "type": "ADVISORY",
+            "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-002-password-reset-vulnerability"
         }
     ]
 }

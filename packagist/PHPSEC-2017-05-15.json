@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<1.2"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/dedalozzo\/pygmentize\/issues\/1"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/3f\/pygmentize"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/dedalozzo\/pygmentize\/issues\/1"
         }
     ]
 }

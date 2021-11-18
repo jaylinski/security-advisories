@@ -32,12 +32,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "http:\/\/blog.swiftmailer.org\/post\/88660759928\/security-fix-swiftmailer-5-2-1-released"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/swiftmailer\/swiftmailer"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "http:\/\/blog.swiftmailer.org\/post\/88660759928\/security-fix-swiftmailer-5-2-1-released"
         }
     ]
 }

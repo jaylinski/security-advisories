@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2019-01"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/zendframework\/zend-developer-tools"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2019-01"
         }
     ]
 }

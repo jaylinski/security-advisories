@@ -32,12 +32,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/gist.github.com\/JeroenBoersma\/f5864a45e3df63b198a57abdff366df2"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/klaviyo\/magento2-extension"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/gist.github.com\/JeroenBoersma\/f5864a45e3df63b198a57abdff366df2"
         }
     ]
 }

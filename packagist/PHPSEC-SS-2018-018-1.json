@@ -44,12 +44,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-018\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-018\/"
         }
     ]
 }

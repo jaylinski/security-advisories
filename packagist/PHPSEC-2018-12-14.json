@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<3.8.0"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/ua-parser\/uap-core\/pull\/363"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/ua-parser\/uap-php"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/ua-parser\/uap-core\/pull\/363"
         }
     ]
 }

@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2014-017-xml-quadratic-blowup-attack\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2014-017-xml-quadratic-blowup-attack\/"
         }
     ]
 }

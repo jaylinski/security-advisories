@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/propelorm\/Propel2\/issues\/1463"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/propel\/propel"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/propelorm\/Propel2\/issues\/1463"
         }
     ]
 }

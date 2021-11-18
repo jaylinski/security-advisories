@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<1.1.2"
                 },
                 {
@@ -41,12 +44,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/namshi\/jose\/commit\/009f86d6ced000b806b2f602c0b7393060ebb34e"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/namshi\/jose"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/namshi\/jose\/commit\/009f86d6ced000b806b2f602c0b7393060ebb34e"
         }
     ]
 }

@@ -26,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/github.com\/squizlabs\/PHP_CodeSniffer\/releases\/tag\/3.0.1"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/squizlabs\/php_codesniffer"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/github.com\/squizlabs\/PHP_CodeSniffer\/releases\/tag\/3.0.1"
         }
     ]
 }

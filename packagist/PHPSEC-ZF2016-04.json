@@ -50,12 +50,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2016-04"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/zendframework\/zendframework"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2016-04"
         }
     ]
 }

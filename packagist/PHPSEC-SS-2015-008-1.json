@@ -32,12 +32,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2015-008-sitetree-creation-permission-vulnerability\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/silverstripe\/cms"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2015-008-sitetree-creation-permission-vulnerability\/"
         }
     ]
 }

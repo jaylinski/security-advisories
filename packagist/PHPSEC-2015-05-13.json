@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<2.2.1"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/blog.pusher.com\/update-on-security\/"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/pusher\/pusher-php-server"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/blog.pusher.com\/update-on-security\/"
         }
     ]
 }

@@ -16,6 +16,9 @@
             "type": "SEMVER",
             "events": [
                 {
+                    "introduced": "0"
+                },
+                {
                     "fixed": "<1.0.3"
                 }
             ]
@@ -23,12 +26,12 @@
     },
     "references": [
         {
-            "type": "ADVISORY",
-            "url": "https:\/\/hackerone.com\/reports\/179034"
-        },
-        {
             "type": "PACKAGE",
             "url": "https:\/\/packagist.org\/packages\/gregwar\/rst"
+        },
+        {
+            "type": "ADVISORY",
+            "url": "https:\/\/hackerone.com\/reports\/179034"
         }
     ]
 }
