@@ -12,32 +12,32 @@
             "name": "silverstripe\/framework",
             "purl": "pkg:packagist\/silverstripe\/framework"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.4.0"
-                },
-                {
-                    "fixed": "<3.4.4"
-                },
-                {
-                    "introduced": ">=3.5.0"
-                },
-                {
-                    "fixed": "<3.5.2"
-                }
-            ]
-        }
+        "versions": [
+            "3.4.0-rc1",
+            "3.4.0",
+            "3.4.1-rc1",
+            "3.4.1-rc2",
+            "3.4.1",
+            "3.4.2",
+            "3.4.3-rc1",
+            "3.4.3",
+            "3.5.0-rc1",
+            "3.5.0-rc2",
+            "3.5.0-rc3",
+            "3.5.0",
+            "3.5.1-rc1",
+            "3.5.1-rc2",
+            "3.5.1"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2017-001\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
         }
     ]
 }

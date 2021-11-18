@@ -12,26 +12,21 @@
             "name": "fuel\/core",
             "purl": "pkg:packagist\/fuel\/core"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<1.8.0.4"
-                }
-            ]
-        }
+        "versions": [
+            "1.8.0",
+            "1.8.0.1",
+            "1.8.0.2",
+            "1.8.0.3"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/fuel\/core"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/fuelphp.com\/security-advisories"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/fuel\/core"
         }
     ]
 }

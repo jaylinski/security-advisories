@@ -12,38 +12,46 @@
             "name": "silverstripe\/framework",
             "purl": "pkg:packagist\/silverstripe\/framework"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.5.5"
-                },
-                {
-                    "fixed": "<3.7.0"
-                },
-                {
-                    "introduced": ">=4.0.3"
-                },
-                {
-                    "fixed": "<4.0.4"
-                },
-                {
-                    "introduced": ">=4.1.0"
-                },
-                {
-                    "fixed": "<4.1.1"
-                }
-            ]
-        }
+        "versions": [
+            "3.5.5-beta1",
+            "3.5.5-beta2",
+            "3.5.5",
+            "3.5.6-rc1",
+            "3.5.6",
+            "3.5.7",
+            "3.5.8-rc1",
+            "3.5.8",
+            "3.6.0-beta1",
+            "3.6.0-beta2",
+            "3.6.0-rc1",
+            "3.6.0",
+            "3.6.1-alpha2",
+            "3.6.1",
+            "3.6.2-beta1",
+            "3.6.2-beta2",
+            "3.6.2",
+            "3.6.3-rc2",
+            "3.6.3",
+            "3.6.4",
+            "3.6.5",
+            "3.6.6-rc1",
+            "3.6.6",
+            "3.6.7",
+            "3.6.8",
+            "4.0.3",
+            "4.1.0-rc1",
+            "4.1.0-rc2",
+            "4.1.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-013\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
         }
     ]
 }

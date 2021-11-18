@@ -12,26 +12,20 @@
             "name": "gregwar\/rst",
             "purl": "pkg:packagist\/gregwar\/rst"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<1.0.3"
-                }
-            ]
-        }
+        "versions": [
+            "v1.0.0",
+            "v1.0.1",
+            "v1.0.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/gregwar\/rst"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/hackerone.com\/reports\/179034"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/gregwar\/rst"
         }
     ]
 }

@@ -12,26 +12,19 @@
             "name": "zfr\/zfr-oauth2-server-module",
             "purl": "pkg:packagist\/zfr\/zfr-oauth2-server-module"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<0.1.2"
-                }
-            ]
-        }
+        "versions": [
+            "0.1.0",
+            "0.1.1"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/zfr\/zfr-oauth2-server-module"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/zf-fr\/zfr-oauth2-server-module\/issues\/6"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zfr\/zfr-oauth2-server-module"
         }
     ]
 }

@@ -12,38 +12,43 @@
             "name": "ezsystems\/ezpublish-legacy",
             "purl": "pkg:packagist\/ezsystems\/ezpublish-legacy"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2019.3.0"
-                },
-                {
-                    "fixed": "<2019.3.5.1"
-                },
-                {
-                    "introduced": ">=2017.12.0"
-                },
-                {
-                    "fixed": "<2017.12.7.3"
-                },
-                {
-                    "introduced": ">=5.4.0"
-                },
-                {
-                    "fixed": "<5.4.14.2"
-                }
-            ]
-        }
+        "versions": [
+            "v2019.03.0-rc1",
+            "v2019.03.0-rc2",
+            "v2019.03.0",
+            "v2019.03.1",
+            "v2019.03.2",
+            "v2019.03.3",
+            "v2019.03.4",
+            "v2019.03.4.2",
+            "v2019.03.5",
+            "v2017.12.0",
+            "v2017.12.1",
+            "v2017.12.1.1",
+            "v2017.12.2",
+            "v2017.12.2.1",
+            "v2017.12.2.2",
+            "v2017.12.3",
+            "v2017.12.3.1",
+            "v2017.12.3.2",
+            "v2017.12.4",
+            "v2017.12.4.1",
+            "v2017.12.4.2",
+            "v2017.12.4.3",
+            "v2017.12.5",
+            "v2017.12.6",
+            "v2017.12.7",
+            "v2017.12.7.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezpublish-legacy"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/ezplatform.com\/security-advisories\/ibexa-sa-2020-006-object-injection-in-legacy-shop-module"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezpublish-legacy"
         }
     ]
 }

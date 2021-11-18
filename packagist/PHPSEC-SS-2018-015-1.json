@@ -12,38 +12,34 @@
             "name": "silverstripe\/comments",
             "purl": "pkg:packagist\/silverstripe\/comments"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.3.0"
-                },
-                {
-                    "fixed": "<1.9.99"
-                },
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.9.99"
-                },
-                {
-                    "introduced": ">=3.0.0"
-                },
-                {
-                    "fixed": "<3.1.1"
-                }
-            ]
-        }
+        "versions": [
+            "2.0.0-beta1",
+            "2.0.0",
+            "2.0.1",
+            "2.0.2",
+            "2.0.3",
+            "2.1.0",
+            "2.1.1",
+            "2.1.2",
+            "2.1.3",
+            "2.1.4",
+            "2.1.5",
+            "2.1.6",
+            "2.1.7",
+            "3.0.0-beta1",
+            "3.0.0-beta2",
+            "3.0.0",
+            "3.1.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/comments"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-015\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/comments"
         }
     ]
 }

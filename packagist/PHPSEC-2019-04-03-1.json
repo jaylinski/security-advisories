@@ -12,26 +12,26 @@
             "name": "ezsystems\/ezplatform-admin-ui",
             "purl": "pkg:packagist\/ezsystems\/ezplatform-admin-ui"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.4.0"
-                },
-                {
-                    "fixed": "<1.4.6"
-                }
-            ]
-        }
+        "versions": [
+            "v1.4.0-beta1",
+            "v1.4.0-rc1",
+            "v1.4.0",
+            "v1.4.1",
+            "v1.4.2",
+            "v1.4.3-rc1",
+            "v1.4.3",
+            "v1.4.4",
+            "v1.4.5"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-002-password-reset-vulnerability"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui"
         }
     ]
 }

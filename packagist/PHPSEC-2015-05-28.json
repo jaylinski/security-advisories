@@ -12,68 +12,57 @@
             "name": "cakephp\/cakephp",
             "purl": "pkg:packagist\/cakephp\/cakephp"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.0.0"
-                },
-                {
-                    "fixed": "<3.0.6"
-                },
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.0.99"
-                },
-                {
-                    "introduced": ">=2.1.0"
-                },
-                {
-                    "fixed": "<2.1.99"
-                },
-                {
-                    "introduced": ">=2.2.0"
-                },
-                {
-                    "fixed": "<2.2.99"
-                },
-                {
-                    "introduced": ">=2.3.0"
-                },
-                {
-                    "fixed": "<2.3.99"
-                },
-                {
-                    "introduced": ">=2.4.0"
-                },
-                {
-                    "fixed": "<2.4.99"
-                },
-                {
-                    "introduced": ">=2.5.0"
-                },
-                {
-                    "fixed": "<2.5.90"
-                },
-                {
-                    "introduced": ">=2.6.0"
-                },
-                {
-                    "fixed": "<2.6.6"
-                }
-            ]
-        }
+        "versions": [
+            "3.0.0-alpha1",
+            "3.0.0-alpha2",
+            "3.0.0-beta1",
+            "3.0.0-beta2",
+            "3.0.0-beta3",
+            "3.0.0-RC1",
+            "3.0.0-RC2",
+            "3.0.0",
+            "3.0.1",
+            "3.0.2",
+            "3.0.3",
+            "3.0.4",
+            "3.0.5",
+            "2.4.5",
+            "2.4.6",
+            "2.4.7",
+            "2.4.8",
+            "2.4.9",
+            "2.4.10",
+            "2.5.0-beta",
+            "2.5.0-RC1",
+            "2.5.0-RC2",
+            "2.5.0",
+            "2.5.1",
+            "2.5.2",
+            "2.5.3",
+            "2.5.4",
+            "2.5.5",
+            "2.5.6",
+            "2.5.7",
+            "2.5.8",
+            "2.5.9",
+            "2.6.0-beta",
+            "2.6.0-RC1",
+            "2.6.0",
+            "2.6.1",
+            "2.6.2",
+            "2.6.3",
+            "2.6.4",
+            "2.6.5"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/bakery.cakephp.org\/2015\/05\/28\/cakephp_2_6_6_and_3_0_6_released.html"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
         }
     ]
 }

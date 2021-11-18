@@ -12,26 +12,45 @@
             "name": "twig\/twig",
             "purl": "pkg:packagist\/twig\/twig"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.0.0"
-                },
-                {
-                    "fixed": "<1.12.3"
-                }
-            ]
-        }
+        "versions": [
+            "1.3.0",
+            "1.4.0",
+            "1.5.0",
+            "1.5.1",
+            "1.6.0",
+            "1.6.1",
+            "1.6.2",
+            "1.6.3",
+            "1.6.4",
+            "1.6.5",
+            "v1.7.0",
+            "v1.8.0",
+            "v1.8.1",
+            "v1.8.2",
+            "v1.8.3",
+            "v1.9.0",
+            "v1.9.1",
+            "v1.9.2",
+            "v1.10.0",
+            "v1.10.1",
+            "v1.10.2",
+            "v1.10.3",
+            "v1.11.0",
+            "v1.11.1",
+            "v1.12.0-RC1",
+            "v1.12.0",
+            "v1.12.1",
+            "v1.12.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/twig\/twig"
-        },
-        {
             "type": "ADVISORY",
             "url": "http:\/\/blog.twig.sensiolabs.org\/post\/47461911874\/security-release-twig-1-12-3-released"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/twig\/twig"
         }
     ]
 }

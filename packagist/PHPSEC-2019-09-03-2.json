@@ -12,38 +12,72 @@
             "name": "ezsystems\/ezplatform",
             "purl": "pkg:packagist\/ezsystems\/ezplatform"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2.5.0"
-                },
-                {
-                    "fixed": "<2.5.4"
-                },
-                {
-                    "introduced": ">=1.13.0"
-                },
-                {
-                    "fixed": "<1.13.5.1"
-                },
-                {
-                    "introduced": ">=1.7.0"
-                },
-                {
-                    "fixed": "<1.7.9.1"
-                }
-            ]
-        }
+        "versions": [
+            "v2.5.0-beta1",
+            "v2.5.0-beta2",
+            "v2.5.0-rc1",
+            "v2.5.0-rc2",
+            "v2.5.0",
+            "v2.5.1",
+            "v2.5.2",
+            "v2.5.3",
+            "v1.13.0-beta1",
+            "v1.13.0-beta2",
+            "v1.13.0-rc1",
+            "v1.13.0",
+            "v1.13.1-rc1",
+            "v1.13.1",
+            "v1.13.1.1",
+            "v1.13.2-rc1",
+            "v1.13.2",
+            "v1.13.3-rc1",
+            "v1.13.3",
+            "v1.13.4-beta1",
+            "v1.13.4-rc1",
+            "v1.13.4-rc2",
+            "v1.13.4",
+            "v1.13.4.1",
+            "v1.13.5-rc1",
+            "v1.13.5-rc2",
+            "v1.13.5",
+            "v1.7.0-beta1",
+            "v1.7.0-beta2",
+            "v1.7.0-beta3",
+            "v1.7.0-rc1",
+            "v1.7.0",
+            "v1.7.1-rc1",
+            "v1.7.2-rc1",
+            "v1.7.2-rc2",
+            "v1.7.2",
+            "v1.7.3-rc1",
+            "v1.7.3-rc2",
+            "v1.7.3",
+            "v1.7.4-rc1",
+            "v1.7.4",
+            "v1.7.5-rc1",
+            "v1.7.5-rc2",
+            "v1.7.5",
+            "v1.7.6-rc1",
+            "v1.7.6",
+            "v1.7.7-rc1",
+            "v1.7.7-rc2",
+            "v1.7.7",
+            "v1.7.8-rc1",
+            "v1.7.8-rc2",
+            "v1.7.8",
+            "v1.7.8.1",
+            "v1.7.9-rc1",
+            "v1.7.9"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-007-prevent-accepting-app.php-in-url-in-platform.sh"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform"
         }
     ]
 }

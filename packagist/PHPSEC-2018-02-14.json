@@ -12,26 +12,24 @@
             "name": "propel\/propel",
             "purl": "pkg:packagist\/propel\/propel"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2.0.0-alpha1"
-                },
-                {
-                    "fixed": "<=2.0.0-alpha7"
-                }
-            ]
-        }
+        "versions": [
+            "2.0.0-alpha1",
+            "2.0.0-alpha2",
+            "2.0.0-alpha3",
+            "2.0.0-alpha4",
+            "2.0.0-alpha5",
+            "2.0.0-alpha6",
+            "2.0.0-alpha7"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/propel\/propel"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/propelorm\/Propel2\/issues\/1463"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/propel\/propel"
         }
     ]
 }

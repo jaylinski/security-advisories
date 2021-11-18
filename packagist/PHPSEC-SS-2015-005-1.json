@@ -12,26 +12,43 @@
             "name": "silverstripe\/cms",
             "purl": "pkg:packagist\/silverstripe\/cms"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.1.0"
-                },
-                {
-                    "fixed": "<=3.1.9"
-                }
-            ]
-        }
+        "versions": [
+            "3.1.0-beta1",
+            "3.1.0-beta2",
+            "3.1.0-beta3",
+            "3.1.0-rc1",
+            "3.1.0-rc2",
+            "3.1.0-rc3",
+            "3.1.0",
+            "3.1.1",
+            "3.1.2-rc1",
+            "3.1.2",
+            "3.1.3-rc1",
+            "3.1.3-rc2",
+            "3.1.3",
+            "3.1.4-rc1",
+            "3.1.4",
+            "3.1.5-rc1",
+            "3.1.5",
+            "3.1.6-rc1",
+            "3.1.6-rc2",
+            "3.1.6-rc3",
+            "3.1.6",
+            "3.1.7-rc1",
+            "3.1.7",
+            "3.1.8",
+            "3.1.9-rc1",
+            "3.1.9"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/cms"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/software\/download\/security-releases\/ss-2015-005\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/cms"
         }
     ]
 }

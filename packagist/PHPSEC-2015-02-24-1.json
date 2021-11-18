@@ -12,26 +12,20 @@
             "name": "thelia\/backoffice-default-template",
             "purl": "pkg:packagist\/thelia\/backoffice-default-template"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2.1.0"
-                },
-                {
-                    "fixed": "<2.1.2"
-                }
-            ]
-        }
+        "versions": [
+            "2.1.0-beta2",
+            "2.1.0",
+            "2.1.1"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/thelia\/backoffice-default-template"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/thelia.net\/version-2-1-2-with-security-fix"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/thelia\/backoffice-default-template"
         }
     ]
 }

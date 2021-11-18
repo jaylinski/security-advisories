@@ -12,26 +12,37 @@
             "name": "sensiolabs\/connect",
             "purl": "pkg:packagist\/sensiolabs\/connect"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<4.2.3"
-                }
-            ]
-        }
+        "versions": [
+            "v1.0",
+            "v1.1",
+            "v1.2",
+            "v1.3",
+            "v1.4",
+            "v1.5",
+            "v1.6",
+            "v1.7",
+            "v1.8",
+            "v1.9",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.1.0",
+            "v3.0.0",
+            "v4.0.0",
+            "v4.1.0",
+            "v4.2.0",
+            "v4.2.1",
+            "v4.2.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/sensiolabs\/connect"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/sensiolabs\/connect\/pull\/63"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/sensiolabs\/connect"
         }
     ]
 }

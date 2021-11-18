@@ -12,26 +12,23 @@
             "name": "symbiote\/silverstripe-multivaluefield",
             "purl": "pkg:packagist\/symbiote\/silverstripe-multivaluefield"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.0.0"
-                },
-                {
-                    "fixed": "<3.0.99"
-                }
-            ]
-        }
+        "versions": [
+            "3.0.0",
+            "3.0.1",
+            "3.0.2",
+            "3.0.3",
+            "3.0.4",
+            "3.0.5"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/symbiote\/silverstripe-multivaluefield"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-017\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/symbiote\/silverstripe-multivaluefield"
         }
     ]
 }

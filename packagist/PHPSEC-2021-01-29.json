@@ -12,26 +12,19 @@
             "name": "socialiteproviders\/steam",
             "purl": "pkg:packagist\/socialiteproviders\/steam"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<1.1"
-                }
-            ]
-        }
+        "versions": [
+            "v1.0.0",
+            "v1.0.1"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/socialiteproviders\/steam"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/SocialiteProviders\/Steam\/security\/advisories\/GHSA-hhw9-35p2-q2c5"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/socialiteproviders\/steam"
         }
     ]
 }

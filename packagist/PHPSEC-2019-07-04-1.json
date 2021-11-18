@@ -12,26 +12,19 @@
             "name": "ezsystems\/ezplatform-admin-ui-assets",
             "purl": "pkg:packagist\/ezsystems\/ezplatform-admin-ui-assets"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=4.0.0"
-                },
-                {
-                    "fixed": "<4.2.0"
-                }
-            ]
-        }
+        "versions": [
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui-assets"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-005-bundled-jquery-affected-by-cve-2019-11358"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezplatform-admin-ui-assets"
         }
     ]
 }

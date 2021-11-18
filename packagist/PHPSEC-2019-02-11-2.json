@@ -12,26 +12,57 @@
             "name": "passbolt\/passbolt_api",
             "purl": "pkg:packagist\/passbolt\/passbolt_api"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<2.7.0"
-                }
-            ]
-        }
+        "versions": [
+            "v1.0.5",
+            "v1.0.6",
+            "v1.0.7",
+            "v1.0.8",
+            "v1.0.9",
+            "v1.0.10",
+            "v1.0.11",
+            "v1.0.12",
+            "v1.0.13",
+            "v1.0.14",
+            "v1.1.0",
+            "v1.2.0",
+            "v1.2.1",
+            "v1.3.0",
+            "v1.3.1",
+            "v1.3.2",
+            "v1.4.0",
+            "v1.5.1",
+            "v1.6.0",
+            "v1.6.1",
+            "v1.6.2",
+            "v1.6.3",
+            "v1.6.4",
+            "v1.6.5",
+            "v1.6.9",
+            "v1.6.10",
+            "v2.0.0-rc1",
+            "v2.0.0-rc2",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v2.0.4",
+            "v2.0.5",
+            "v2.0.7",
+            "v2.1.0",
+            "v2.2.0",
+            "v2.3.0",
+            "v2.4",
+            "v2.5.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/passbolt\/passbolt_api"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.passbolt.com\/incidents\/20190211_multiple_vulnerabilities"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/passbolt\/passbolt_api"
         }
     ]
 }

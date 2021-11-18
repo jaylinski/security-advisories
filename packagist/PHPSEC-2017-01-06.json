@@ -12,32 +12,20 @@
             "name": "neos\/swiftmailer",
             "purl": "pkg:packagist\/neos\/swiftmailer"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=4.1.0"
-                },
-                {
-                    "fixed": "<4.1.99"
-                },
-                {
-                    "introduced": ">=5.4.0"
-                },
-                {
-                    "fixed": "<5.4.5"
-                }
-            ]
-        }
+        "versions": [
+            "4.1.5",
+            "5.4.1",
+            "5.4.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/neos\/swiftmailer"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.neos.io\/blog\/flow-sa-2017-01.html"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/neos\/swiftmailer"
         }
     ]
 }

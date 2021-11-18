@@ -12,26 +12,31 @@
             "name": "scheb\/two-factor-bundle",
             "purl": "pkg:packagist\/scheb\/two-factor-bundle"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=3.0.0"
-                },
-                {
-                    "fixed": "<3.7.0"
-                }
-            ]
-        }
+        "versions": [
+            "v3.0.0-beta1",
+            "v3.0.0-beta2",
+            "v3.0.0",
+            "v3.1.0",
+            "v3.2.0",
+            "v3.3.0",
+            "v3.3.1",
+            "v3.4.0",
+            "v3.5.0",
+            "v3.5.1",
+            "v3.6.0",
+            "v3.6.1",
+            "v3.6.2",
+            "v3.6.3"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/scheb\/two-factor-bundle"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/scheb\/two-factor-bundle\/issues\/143"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/scheb\/two-factor-bundle"
         }
     ]
 }

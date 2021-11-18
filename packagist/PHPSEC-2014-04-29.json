@@ -12,32 +12,20 @@
             "name": "cakephp\/cakephp",
             "purl": "pkg:packagist\/cakephp\/cakephp"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.4.8"
-                },
-                {
-                    "introduced": ">=1.3.0"
-                },
-                {
-                    "fixed": "<1.3.18"
-                }
-            ]
-        }
+        "versions": [
+            "2.4.5",
+            "2.4.6",
+            "2.4.7"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/bakery.cakephp.org\/2014\/04\/29\/CakePHP-1-3-18-and-2-4-8-released.html"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/cakephp\/cakephp"
         }
     ]
 }

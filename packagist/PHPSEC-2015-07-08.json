@@ -12,26 +12,21 @@
             "name": "oro\/crm",
             "purl": "pkg:packagist\/oro\/crm"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.7.0"
-                },
-                {
-                    "fixed": "<1.7.4"
-                }
-            ]
-        }
+        "versions": [
+            "1.7.0",
+            "1.7.1",
+            "1.7.2",
+            "1.7.3"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/oro\/crm"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.orocrm.com\/blog\/news\/orocrm-security-announcement"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/oro\/crm"
         }
     ]
 }

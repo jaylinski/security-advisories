@@ -12,26 +12,33 @@
             "name": "friendsofsymfony\/oauth2-php",
             "purl": "pkg:packagist\/friendsofsymfony\/oauth2-php"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": "0"
-                },
-                {
-                    "fixed": "<1.3.0"
-                }
-            ]
-        }
+        "versions": [
+            "1.0.0",
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0",
+            "1.1.1",
+            "1.2.0",
+            "1.2.1",
+            "1.2.2",
+            "1.2.3"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/friendsofsymfony\/oauth2-php"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/FriendsOfSymfony\/oauth2-php\/releases\/tag\/1.3.0"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/friendsofsymfony\/oauth2-php"
         }
     ]
 }

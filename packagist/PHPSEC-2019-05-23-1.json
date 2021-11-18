@@ -12,38 +12,18 @@
             "name": "ezsystems\/ezfind-ls",
             "purl": "pkg:packagist\/ezsystems\/ezfind-ls"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2017.12.0"
-                },
-                {
-                    "fixed": "<2017.12.0.1"
-                },
-                {
-                    "introduced": ">=5.4.0"
-                },
-                {
-                    "fixed": "<5.4.11.1"
-                },
-                {
-                    "introduced": ">=5.3.0"
-                },
-                {
-                    "fixed": "<5.3.6.1"
-                }
-            ]
-        }
+        "versions": [
+            "v2017.12.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezfind-ls"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/share.ez.no\/community-project\/security-advisories\/ezsa-2019-003-xss-in-ezfind-spellcheck"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezfind-ls"
         }
     ]
 }

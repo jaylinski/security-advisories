@@ -12,32 +12,18 @@
             "name": "zendframework\/zendframework1",
             "purl": "pkg:packagist\/zendframework\/zendframework1"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.11.0"
-                },
-                {
-                    "fixed": "<1.11.15"
-                },
-                {
-                    "introduced": ">=1.12.0"
-                },
-                {
-                    "fixed": "<1.12.1"
-                }
-            ]
-        }
+        "versions": [
+            "1.12.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/zendframework\/zendframework1"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2012-05"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zendframework\/zendframework1"
         }
     ]
 }

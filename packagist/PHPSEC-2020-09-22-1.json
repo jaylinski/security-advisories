@@ -12,26 +12,18 @@
             "name": "livewire\/livewire",
             "purl": "pkg:packagist\/livewire\/livewire"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">2.2.4"
-                },
-                {
-                    "fixed": "<2.2.6"
-                }
-            ]
-        }
+        "versions": [
+            "v2.2.5"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/livewire\/livewire"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/livewire\/livewire\/releases\/tag\/v2.2.6"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/livewire\/livewire"
         }
     ]
 }

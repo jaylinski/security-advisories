@@ -12,44 +12,46 @@
             "name": "zendframework\/zend-session",
             "purl": "pkg:packagist\/zendframework\/zend-session"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.0.99"
-                },
-                {
-                    "introduced": ">=2.1.0"
-                },
-                {
-                    "fixed": "<2.1.99"
-                },
-                {
-                    "introduced": ">=2.2.0"
-                },
-                {
-                    "fixed": "<2.2.9"
-                },
-                {
-                    "introduced": ">=2.3.0"
-                },
-                {
-                    "fixed": "<2.3.4"
-                }
-            ]
-        }
+        "versions": [
+            "2.0.3",
+            "2.0.4",
+            "2.0.5",
+            "2.0.6",
+            "2.0.7",
+            "2.0.8",
+            "2.1.0",
+            "2.1.1",
+            "2.1.2",
+            "2.1.3",
+            "2.1.4",
+            "2.1.5",
+            "2.1.6",
+            "2.2.0rc1",
+            "2.2.0rc2",
+            "2.2.0rc3",
+            "2.2.0",
+            "2.2.1",
+            "2.2.2",
+            "2.2.3",
+            "2.2.4",
+            "2.2.5",
+            "2.2.6",
+            "2.2.7",
+            "2.2.8",
+            "2.3.0",
+            "2.3.1",
+            "2.3.2",
+            "2.3.3"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/zendframework\/zend-session"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/framework.zend.com\/security\/advisory\/ZF2015-01"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/zendframework\/zend-session"
         }
     ]
 }

@@ -12,32 +12,20 @@
             "name": "silverstripe\/taxonomy",
             "purl": "pkg:packagist\/silverstripe\/taxonomy"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.3.0"
-                },
-                {
-                    "fixed": "<1.3.1"
-                },
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.0.1"
-                }
-            ]
-        }
+        "versions": [
+            "1.3.0",
+            "2.0.0-beta1",
+            "2.0.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/taxonomy"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-011\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/taxonomy"
         }
     ]
 }

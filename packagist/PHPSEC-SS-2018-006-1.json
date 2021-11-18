@@ -12,32 +12,21 @@
             "name": "silverstripe\/framework",
             "purl": "pkg:packagist\/silverstripe\/framework"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=4.0.3"
-                },
-                {
-                    "fixed": "<4.0.4"
-                },
-                {
-                    "introduced": ">=4.1.0"
-                },
-                {
-                    "fixed": "<4.1.1"
-                }
-            ]
-        }
+        "versions": [
+            "4.0.3",
+            "4.1.0-rc1",
+            "4.1.0-rc2",
+            "4.1.0"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/www.silverstripe.org\/download\/security-releases\/ss-2018-006\/"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/silverstripe\/framework"
         }
     ]
 }

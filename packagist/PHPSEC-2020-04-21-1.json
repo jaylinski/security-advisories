@@ -12,26 +12,28 @@
             "name": "ezsystems\/ezdemo-ls-extension",
             "purl": "pkg:packagist\/ezsystems\/ezdemo-ls-extension"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=5.4.0"
-                },
-                {
-                    "fixed": "<5.4.2.1"
-                }
-            ]
-        }
+        "versions": [
+            "v5.4.0-beta1",
+            "v5.4.0-beta2",
+            "v5.4.0-beta3",
+            "v5.4.0-rc1",
+            "v5.4.0-rc2",
+            "v5.4.0-rc3",
+            "v5.4.0",
+            "v5.4.1-rc1",
+            "v5.4.1",
+            "v5.4.2-rc1",
+            "v5.4.2"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezdemo-ls-extension"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/ezplatform.com\/security-advisories\/ezsa-2020-003-xss-in-demobundle-ezdemo-bundled-videojs"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/ezsystems\/ezdemo-ls-extension"
         }
     ]
 }

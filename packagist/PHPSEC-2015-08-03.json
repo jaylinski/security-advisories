@@ -12,32 +12,31 @@
             "name": "laravel\/socialite",
             "purl": "pkg:packagist\/laravel\/socialite"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=1.0.0"
-                },
-                {
-                    "fixed": "<1.0.99"
-                },
-                {
-                    "introduced": ">=2.0.0"
-                },
-                {
-                    "fixed": "<2.0.10"
-                }
-            ]
-        }
+        "versions": [
+            "v1.0.0",
+            "v1.0.1",
+            "v1.0.2",
+            "v1.0.3",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v2.0.4",
+            "v2.0.5",
+            "v2.0.6",
+            "v2.0.7",
+            "v2.0.8",
+            "v2.0.9"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/laravel\/socialite"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/laravel\/socialite\/pull\/93"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/laravel\/socialite"
         }
     ]
 }

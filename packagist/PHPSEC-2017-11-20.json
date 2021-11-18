@@ -12,26 +12,19 @@
             "name": "titon\/framework",
             "purl": "pkg:packagist\/titon\/framework"
         },
-        "ranges": {
-            "type": "SEMVER",
-            "events": [
-                {
-                    "introduced": ">=0.0.0"
-                },
-                {
-                    "fixed": "<9.9.99"
-                }
-            ]
-        }
+        "versions": [
+            "0.0.0-alpha",
+            "0.1.0-alpha"
+        ]
     },
     "references": [
         {
-            "type": "PACKAGE",
-            "url": "https:\/\/packagist.org\/packages\/titon\/framework"
-        },
-        {
             "type": "ADVISORY",
             "url": "https:\/\/github.com\/titon\/framework\/issues\/93"
+        },
+        {
+            "type": "PACKAGE",
+            "url": "https:\/\/packagist.org\/packages\/titon\/framework"
         }
     ]
 }
