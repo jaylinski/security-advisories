@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-ZF2016-01",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-04-20T06:36:56Z",
+    "published": "2016-04-20T17:18:48Z",
     "aliases": [],
     "related": [],
     "summary": "Potential Insufficient Entropy Vulnerability in ZF1",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-03-15",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-03-15T17:43:17Z",
+    "published": "2018-03-15T17:43:17Z",
     "aliases": [],
     "related": [],
     "summary": "Incorrect header injection check",

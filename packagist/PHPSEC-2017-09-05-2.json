@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2017-09-05-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2017-09-11T17:39:20Z",
+    "published": "2017-09-06T05:59:32Z",
     "aliases": [],
     "related": [],
     "summary": "Information Disclosure in TYPO3 CMS",

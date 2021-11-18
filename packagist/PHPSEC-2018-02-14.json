@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-02-14",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-02-20T15:45:26Z",
+    "published": "2018-02-20T15:45:26Z",
     "aliases": [],
     "related": [],
     "summary": "SQL injection possible with limit() on MySQL",

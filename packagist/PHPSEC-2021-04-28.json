@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2021-04-28",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-11-17T15:27:54Z",
+    "published": "2021-04-30T13:37:10Z",
     "aliases": [],
     "related": [],
     "summary": "SQL Server LIMIT \/ OFFSET SQL Injection",

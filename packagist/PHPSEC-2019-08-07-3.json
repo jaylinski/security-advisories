@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-08-07-3",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2020-11-22T14:08:15Z",
+    "published": "2020-11-22T14:08:15Z",
     "aliases": [],
     "related": [],
     "summary": "Tabnabbing when opening URI with menu \"Open URI in a new tab\"",

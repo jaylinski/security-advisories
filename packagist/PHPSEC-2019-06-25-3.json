@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-06-25-3",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-07-29T21:30:50Z",
+    "published": "2019-06-25T08:42:44Z",
     "aliases": [],
     "related": [],
     "summary": "Security Misconfiguration in Frontend Session Handling",

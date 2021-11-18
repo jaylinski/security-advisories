@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-07-19-4",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-07-19T18:50:33Z",
+    "published": "2016-07-19T18:50:33Z",
     "aliases": [],
     "related": [],
     "summary": "Information Disclosure in TYPO3 Backend",

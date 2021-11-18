@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2020-05-20-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2020-05-22T06:10:34Z",
+    "published": "2020-05-22T06:10:34Z",
     "aliases": [],
     "related": [],
     "summary": "Drupal core - Moderately critical - Open Redirect - SA-CORE-2020-003",

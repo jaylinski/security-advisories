@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-07-09",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-07-09T09:40:33Z",
+    "published": "2018-07-09T09:40:33Z",
     "aliases": [],
     "related": [],
     "summary": "CSRF vulnerability in the admin panel",

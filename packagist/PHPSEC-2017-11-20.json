@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2017-11-20",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-03-01T01:09:36Z",
+    "published": "2017-11-20T19:45:52Z",
     "aliases": [],
     "related": [],
     "summary": "Padding Oracle Vulnerability in RSA Encryption",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-07-10",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2019-07-14T13:26:49Z",
+    "published": "2019-07-14T13:26:49Z",
     "aliases": [],
     "related": [],
     "summary": "Reflected Cross-Site-Scripting",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2014-07-29-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2014-07-29T09:42:52Z",
+    "published": "2014-07-29T09:42:52Z",
     "aliases": [],
     "related": [],
     "summary": "Fixed potential path traversal attack and remote code injection",

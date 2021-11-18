@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-05-13",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-05-15T09:42:56Z",
+    "published": "2015-05-15T09:42:56Z",
     "aliases": [],
     "related": [],
     "summary": "Exploit in the private channel authentication",

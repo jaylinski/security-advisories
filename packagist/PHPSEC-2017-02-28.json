@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2017-02-28",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2017-06-07T06:34:51Z",
+    "published": "2017-06-07T06:34:51Z",
     "aliases": [],
     "related": [],
     "summary": "An error during signature verification can be treated as a successful verification.",

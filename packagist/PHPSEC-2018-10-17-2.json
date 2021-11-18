@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-10-17-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-10-21T09:18:30Z",
+    "published": "2018-10-21T09:18:30Z",
     "aliases": [],
     "related": [],
     "summary": "External URL injection through URL aliases - Moderately Critical - Open Redirect",

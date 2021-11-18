@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-12-11-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-07-29T21:30:50Z",
+    "published": "2018-12-11T16:40:54Z",
     "aliases": [],
     "related": [],
     "summary": "Cross-Site Scripting in Online Media Asset Rendering",

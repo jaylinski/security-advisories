@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-ZF2011-01",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-04-20T06:36:56Z",
+    "published": "2013-01-31T15:05:27Z",
     "aliases": [],
     "related": [],
     "summary": "Potential XSS in Development Environment Error View Script",

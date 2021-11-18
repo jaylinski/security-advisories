@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-SS-2016-013-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2020-02-05T04:09:44Z",
+    "published": "2020-02-05T04:09:44Z",
     "aliases": [],
     "related": [],
     "summary": "SS-2016-013: Member.Name is not escaped",

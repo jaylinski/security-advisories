@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-10-31-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-11-22T10:42:58Z",
+    "published": "2018-10-31T13:59:12Z",
     "aliases": [],
     "related": [],
     "summary": "EZSA-2018-005 Passwordless login for LDAP users",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-02-23-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-05-28T19:43:51Z",
+    "published": "2016-05-28T19:43:51Z",
     "aliases": [],
     "related": [],
     "summary": "XML External Entity (XXE) Processing in TYPO3 Core",

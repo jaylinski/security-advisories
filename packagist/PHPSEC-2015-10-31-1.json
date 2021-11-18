@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-10-31-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-04-20T06:36:56Z",
+    "published": "2015-11-22T22:38:24Z",
     "aliases": [],
     "related": [],
     "summary": "XSS attack vector in Security Library method xss_clean()",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2014-12-09-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-07-29T21:30:50Z",
+    "published": "2015-08-08T15:22:45Z",
     "aliases": [],
     "related": [],
     "summary": "Possible cache poisining on the homepage when anchors are used",

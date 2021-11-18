@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-02-11-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2020-11-26T10:42:02Z",
+    "published": "2020-11-22T14:08:15Z",
     "aliases": [],
     "related": [],
     "summary": "Retrieval of HTTP-only cookies",

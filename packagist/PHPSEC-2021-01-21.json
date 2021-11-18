@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2021-01-21",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-02-02T17:59:31Z",
+    "published": "2021-02-01T16:11:38Z",
     "aliases": [],
     "related": [],
     "summary": "Unexpected bindings in QueryBuilder",

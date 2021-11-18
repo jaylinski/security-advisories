@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2017-09-11-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-11-22T10:42:58Z",
+    "published": "2017-09-11T09:34:23Z",
     "aliases": [],
     "related": [],
     "summary": "EZSA-2017-006 Information disclosure in backend content tree menu",

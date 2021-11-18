@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-11-28",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-12-10T14:47:51Z",
+    "published": "2018-12-06T11:26:19Z",
     "aliases": [],
     "related": [],
     "summary": "SUPEE-10975 - Security enhancements that help close RCE,XSS,CSRF and other vulnerabilities",

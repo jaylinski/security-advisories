@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-ZF2016-03",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-09-08T17:02:29Z",
+    "published": "2016-09-08T17:02:29Z",
     "aliases": [],
     "related": [],
     "summary": "Potential SQL injection in ORDER and GROUP functions of ZF1",

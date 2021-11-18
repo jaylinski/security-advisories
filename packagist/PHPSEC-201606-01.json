@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-201606-01",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2017-01-19T14:02:57Z",
+    "published": "2016-07-19T06:50:25Z",
     "aliases": [],
     "related": [],
     "summary": "Link injection",

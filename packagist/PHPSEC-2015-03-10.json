@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-03-10",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-04-02T16:42:11Z",
+    "published": "2015-04-02T16:42:11Z",
     "aliases": [],
     "related": [],
     "summary": "Critical vulnerabilities in JSON Web Token libraries",

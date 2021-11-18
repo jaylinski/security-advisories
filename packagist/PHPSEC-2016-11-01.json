@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-11-01",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-11-01T15:26:00Z",
+    "published": "2016-11-01T15:26:00Z",
     "aliases": [],
     "related": [],
     "summary": "Time-Based Information Disclosure Vulnerability in Flow",

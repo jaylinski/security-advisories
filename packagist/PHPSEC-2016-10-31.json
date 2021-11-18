@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-10-31",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-10-31T13:16:54Z",
+    "published": "2016-10-31T13:16:54Z",
     "aliases": [],
     "related": [],
     "summary": "Local File Inclusion Vulnerability",

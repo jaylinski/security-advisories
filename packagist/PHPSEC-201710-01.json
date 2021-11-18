@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-201710-01",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-02-21T15:14:03Z",
+    "published": "2017-10-25T19:43:35Z",
     "aliases": [],
     "related": [],
     "summary": "Signature validation bypass",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-ZF2013-02",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-04-20T06:36:56Z",
+    "published": "2013-03-18T18:24:25Z",
     "aliases": [],
     "related": [],
     "summary": "Potential Information Disclosure and Insufficient Entropy vulnerabilities in Zend\\Math\\Rand and Zend\\Validate\\Csrf Components",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-11-23",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-04-15T08:08:59Z",
+    "published": "2015-11-24T07:53:46Z",
     "aliases": [],
     "related": [],
     "summary": "Arbitrary file upload and XML External Entity processing",

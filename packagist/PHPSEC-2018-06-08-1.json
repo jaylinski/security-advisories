@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-06-08-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-06-08T07:18:07Z",
+    "published": "2018-06-08T07:18:07Z",
     "aliases": [],
     "related": [],
     "summary": "Missing state parameter in OAuth requests leading to CSRF vulnerability",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-05-07-5",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-07-29T21:30:50Z",
+    "published": "2019-05-07T15:00:09Z",
     "aliases": [],
     "related": [],
     "summary": "Information Disclosure in User Authentication",

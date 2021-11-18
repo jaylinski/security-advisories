@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2014-05-20",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-03-02T14:11:25Z",
+    "published": "2014-06-21T23:39:20Z",
     "aliases": [],
     "related": [],
     "summary": "Risk of mass-assignment vulnerabilities",

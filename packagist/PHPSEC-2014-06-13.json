@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2014-06-13",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-12-12T09:15:32Z",
+    "published": "2015-05-20T13:28:13Z",
     "aliases": [],
     "related": [],
     "summary": "Sendmail transport arbitrary shell execution",

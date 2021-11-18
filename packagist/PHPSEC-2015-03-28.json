@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-03-28",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-04-15T08:09:55Z",
+    "published": "2015-04-20T10:19:43Z",
     "aliases": [],
     "related": [],
     "summary": "Privilege Escalation in TYPO3 Neos",

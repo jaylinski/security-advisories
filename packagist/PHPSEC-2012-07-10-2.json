@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2012-07-10-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-12-12T09:15:32Z",
+    "published": "2013-02-01T09:57:34Z",
     "aliases": [],
     "related": [],
     "summary": "Fixes a security issue where the session could be hijacked",

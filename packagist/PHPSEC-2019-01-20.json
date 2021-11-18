@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-01-20",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-04-02T09:08:24Z",
+    "published": "2021-04-01T18:25:04Z",
     "aliases": [],
     "related": [],
     "summary": "Adminer script versions up to 4.6.2 contains file disclosure vulnerability",

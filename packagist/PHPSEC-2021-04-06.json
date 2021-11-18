@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2021-04-06",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2021-04-06T12:07:59Z",
+    "published": "2021-04-06T12:07:59Z",
     "aliases": [],
     "related": [],
     "summary": "Regression in Query Parenthesis can have Security Implications",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-02-19",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-12-12T09:15:32Z",
+    "published": "2015-04-02T16:19:27Z",
     "aliases": [],
     "related": [],
     "summary": "Attackers able to impersonate users",

@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-12-19",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2019-12-20T15:13:40Z",
+    "published": "2019-12-20T15:13:40Z",
     "aliases": [],
     "related": [],
     "summary": "Vulnerability to bypass two-factor authentication with remember-me option",

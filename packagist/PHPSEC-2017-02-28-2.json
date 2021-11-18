@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2017-02-28-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2017-09-11T18:04:04Z",
+    "published": "2017-09-11T18:04:04Z",
     "aliases": [],
     "related": [],
     "summary": "Cross-Site Scripting in TYPO3 CMS",

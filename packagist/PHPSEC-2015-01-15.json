@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-01-15",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2015-01-16T07:53:26Z",
+    "published": "2015-01-16T07:53:26Z",
     "aliases": [],
     "related": [],
     "summary": "XSS vulnerability in login redirect param",

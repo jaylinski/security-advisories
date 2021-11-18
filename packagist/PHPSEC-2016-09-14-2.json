@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-09-14-2",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-09-14T18:35:49Z",
+    "published": "2016-09-14T18:35:49Z",
     "aliases": [],
     "related": [],
     "summary": "Cache Flooding in TYPO3 Frontend",

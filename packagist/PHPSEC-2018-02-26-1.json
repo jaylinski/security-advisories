@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2018-02-26-1",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2018-11-22T10:42:58Z",
+    "published": "2018-02-27T10:58:00Z",
     "aliases": [],
     "related": [],
     "summary": "EZSA-2018-001 Several vulnerabilities in Forgot password, Information collector, XML text, and Matrix field type features",

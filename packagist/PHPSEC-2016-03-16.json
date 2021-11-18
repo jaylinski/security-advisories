@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2016-03-16",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-05-03T12:08:18Z",
+    "published": "2016-04-26T08:53:59Z",
     "aliases": [],
     "related": [],
     "summary": "Uses insecure CSPRNG (openssl_random_pseudo_bytes())",

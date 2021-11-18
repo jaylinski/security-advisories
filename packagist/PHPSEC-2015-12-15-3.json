@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2015-12-15-3",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2016-01-11T20:55:29Z",
+    "published": "2016-01-11T20:55:29Z",
     "aliases": [],
     "related": [],
     "summary": "Multiple Cross-Site Scripting vulnerabilities in frontend",

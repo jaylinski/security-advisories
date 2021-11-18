@@ -1,7 +1,7 @@
 {
     "id": "PHPSEC-2019-12-18-4",
-    "modified": "2021-11-17T23:04:26Z",
-    "published": "2021-11-17T23:04:26Z",
+    "modified": "2019-12-21T13:12:55Z",
+    "published": "2019-12-21T13:12:55Z",
     "aliases": [],
     "related": [],
     "summary": "Drupal core - Critical - Multiple vulnerabilities - SA-CORE-2019-012",
